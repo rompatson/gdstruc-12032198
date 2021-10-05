@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="304410ea-4199-480d-be07-b32001dd4ea4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/Quiz 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/src/com/romarpatricksonico/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/src/com/romarpatricksonico/SimpleHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 4/src/com/romarpatricksonico/StoredPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quiz 3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 3/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quiz 3/Quiz 4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +103,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
   <component name="RunManager">
