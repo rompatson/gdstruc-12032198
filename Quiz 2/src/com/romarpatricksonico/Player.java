@@ -5,12 +5,12 @@ import java.util.Objects;
 public class Player {
     private int id;
     private String name;
-    private int leve;
+    private int level;
 
-    public Player(int id, String name, int leve) {
+    public Player(int id, String name, int level) {
         this.id = id;
         this.name = name;
-        this.leve = leve;
+        this.level = level;
     }
 
     public int getId() {
@@ -29,12 +29,12 @@ public class Player {
         this.name = name;
     }
 
-    public int getLeve() {
-        return leve;
+    public int getLevel() {
+        return level;
     }
 
-    public void setLeve(int leve) {
-        this.leve = leve;
+    public void setLevel(int level) {
+        this.level = level;
     }
 
     @Override
@@ -42,7 +42,7 @@ public class Player {
         return "Player{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", leve=" + leve +
+                ", level=" + level +
                 '}';
     }
 
@@ -51,11 +51,13 @@ public class Player {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Player player = (Player) o;
-        return id == player.id && leve == player.leve && Objects.equals(name, player.name);
+        return id == player.id && level == player.level && Objects.equals(name, player.name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(id, name, leve);
+        return Objects.hash(id, name, level);
     }
 }
+
+
